@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParamaWattanakrai
+- 👋 Hello, I’m @ParamaWattanakrai
 - 👀 I’m interested in Data Science and UX/UI Design
 - 🌱 I’m currently learning Web Application Development
 - 💞️ I’m looking to collaborate on Web Application Projects
