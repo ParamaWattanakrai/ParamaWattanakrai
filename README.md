@@ -20,10 +20,10 @@
 
 ## 📬 Contacts
 * 📧 E-Mail Address: Parama.Wattanakrai@gmail.com
-* 📘 Facebook: Parama Wattanakrai
+* 📘 Facebook: [Parama Wattanakrai](https://www.facebook.com/profile.php?id=100088878170822)
   
 ## 🧑‍🤝‍🧑 Affilations
-⚫ Syntax-Waiyakorn [Syntax](https://github.com/Syntax-Waiyakorn/)
+⚫ [Syntax](https://github.com/Syntax-Waiyakorn/)
 
 <!---
 ParamaWattanakrai/ParamaWattanakrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
