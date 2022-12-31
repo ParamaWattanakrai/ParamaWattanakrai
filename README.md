@@ -19,8 +19,8 @@
 * 🥈 Second place gold in 70th Silpa Software Project Competition in Nonthaburi 1 district (2022) - Timetable Manager
 
 ## 📬 Contact
-📧 E-Mail Address: Parama.Wattanakrai@gmail.com
-📘 Facebook: Parama Wattanakrai
+* 📧 E-Mail Address: Parama.Wattanakrai@gmail.com
+* 📘 Facebook: Parama Wattanakrai
 
 <!---
 ParamaWattanakrai/ParamaWattanakrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
