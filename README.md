@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Parama Wattanakrai (ปรมะ วัฒนไกร)
+# 👋 Hello, I’m [Parama Wattanakrai](https://github.com/ParamaWattanakrai) (ปรมะ วัฒนไกร)
 
 ## 📝 About Me
   I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole. I’m mostly interested in Data Science and UX/UI Design and I'm currently learning Web Application Development.
@@ -16,7 +16,8 @@
 ## 🚩 Achievements and Projects
 * 🧠 Completed AiCE Warp (Intro to AI Engineering Program) course by CMKL University (2022) - Computer Vision, Data Structure and Machine Learning
 * 🥉 Third place in 14th ICT Challenge by KMUTT (2022)
-* 🥈 Second place gold in 70th Silpa Software Project Competition in Nonthaburi 1 district (2022) - Timetable Manager
+* 🥇 First place in National Acedemic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) in Nonthaburi provincial level (2022) - English Subject
+* 🥈 Second place gold in 70th Silpa (ศิลปหัตถกรรม) Software Project Competition in Nonthaburi 1 district (2022) - Timetable Manager
 
 ## 📬 Contacts
 * 📧 E-Mail Address: Parama.Wattanakrai@gmail.com
