@@ -4,7 +4,7 @@
   I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole. I’m mostly interested in Data Science and UX/UI Design and I'm currently learning Web Application Development.
 
 ## 💼 Current Projects
-* 🌐 National Software Competition - <Confidential>
+* 🌐 National Software Competition - Confidential Project
 * 🕹️ Coding for Metaverse - Some Roblox Game?
 
 ## 📙 Education
