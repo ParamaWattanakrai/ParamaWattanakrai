@@ -18,9 +18,12 @@
 * 🥉 Third place in 14th ICT Challenge by KMUTT (2022)
 * 🥈 Second place gold in 70th Silpa Software Project Competition in Nonthaburi 1 district (2022) - Timetable Manager
 
-## 📬 Contact
+## 📬 Contacts
 * 📧 E-Mail Address: Parama.Wattanakrai@gmail.com
 * 📘 Facebook: Parama Wattanakrai
+  
+## 🧑‍🤝‍🧑 Affilations
+⚫ Syntax-Waiyakorn [Syntax](https://github.com/Syntax-Waiyakorn/)
 
 <!---
 ParamaWattanakrai/ParamaWattanakrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
