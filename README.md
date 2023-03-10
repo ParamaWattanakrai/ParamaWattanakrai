@@ -15,8 +15,9 @@
 ## 🚩 Achievements and Projects
 * 🧠 Completed AiCE Warp (Intro to AI Engineering Program) course by CMKL University (2022) - Computer Vision, Data Structure and Machine Learning
 * 🥉 Third place in 14th ICT Challenge by KMUTT (2022)
-* 🥇 First place in National Acedemic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) in Nonthaburi provincial level (2022) - English Subject
+* 🥇 First place in National Acedemic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) Nonthaburi provincial level (2022) - English Subject
 * 🥈 Second place gold in 70th Silpa (ศิลปหัตถกรรม) Software Project Competition in Nonthaburi 1 district (2022) - Timetable Manager
+* 🥈 14th place silver in National Acedemic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) national level (2022) - English Subject
 
 ## 📬 Contacts
 * 📧 E-Mail Address: Parama.Wattanakrai@gmail.com
