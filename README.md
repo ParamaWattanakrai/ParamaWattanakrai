@@ -4,8 +4,7 @@
   I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole. I’m mostly interested in Data Science and UX/UI Design and I'm currently learning Web Application Development.
 
 ## 💼 Current Projects
-* 🌐 National Software Competition - Confidential Project
-* 🕹️ Coding for Metaverse - Some Roblox Game?
+* 🌐 Just ตาราง - A website for Thai public school to manage timetable
 
 ## 📙 Education
 * 🚸 Preschool (Anuban 1-3): Sarasas Withaed Bangbuathong (สารสาสน์วิเทศบางบัวทอง) - Bilingual Programme (แผนกสองภาษา)
