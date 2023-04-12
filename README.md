@@ -1,7 +1,7 @@
 # 👋 Hello, I’m [Parama Wattanakrai](https://github.com/ParamaWattanakrai) (ปรมะ วัฒนไกร)
 
 ## 📝 About Me
-  I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole. I’m mostly interested in Data Science and UX/UI Design and I'm currently learning Web Application Development.
+  I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole.
 
 ## 💼 Current Projects
 * 🌐 Just ตาราง - A website for Thai public school to manage timetable
