@@ -4,7 +4,7 @@
   I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole.
 
 ## 💼 Current Projects
-* 🌐 Just ตาราง - A website for Thai public school to manage timetable
+* 🌐 Khaotarang - A website for Thai public school to manage timetable
 * 🌐 LangLearn - A Minecraft resourcepack for immersive language learning
 
 ## 📙 Education
@@ -19,6 +19,7 @@
 * 🥇 First place in National Acedemic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) Nonthaburi provincial level (2022) - English Subject
 * 🥈 Second place gold in 70th Silpa (ศิลปหัตถกรรม) Software Project Competition in Nonthaburi 1 district (2022) - Timetable Manager
 * 🥈 14th place silver in National Acedemic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) national level (2022) - English Subject
+* Clean code award completion of Discovery Piscine for Senior High School Students course by 42 Bangkok (2023) - 12.07/13.57 Lvl.
 
 ## 📬 Contacts
 * 📧 E-Mail Address: Parama.Wattanakrai@gmail.com
