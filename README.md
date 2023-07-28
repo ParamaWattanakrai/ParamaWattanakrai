@@ -24,6 +24,7 @@
 ## 📬 Contacts
 * 📧 E-Mail Address: Parama.Wattanakrai@gmail.com
 * 📘 Facebook: [Parama Wattanakrai](https://www.facebook.com/profile.php?id=100088878170822)
+* 🔵 Discord: parawatt
   
 ## 🧑‍🤝‍🧑 Affilations
 ⚫ [Syntax](https://github.com/Syntax-Waiyakorn/)
