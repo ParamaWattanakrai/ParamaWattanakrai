@@ -4,8 +4,8 @@
   I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole.
 
 ## 💼 Current Projects
+* 🌐 Waiyakon - A language model for classifying 
 * 🌐 Khaotarang - A website for Thai public school to manage timetable
-* 🌐 LangLearn - A Minecraft resourcepack for immersive language learning
 
 ## 📙 Education
 * 🚸 Preschool (Anuban 1-3): Sarasas Withaed Bangbuathong (สารสาสน์วิเทศบางบัวทอง) - Bilingual Programme (แผนกสองภาษา)
