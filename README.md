@@ -2,6 +2,9 @@
 
 ## 📝 About Me
   I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole.
+## Skills and Interests
+* Computer Languages: Python, Java, JavaScript, HTML, CSS, VB, C
+* Linguistics: Thai (native), English (fluent), German(studying)
 
 ## 💼 Current Projects
 * 🌐 Waiyakon - A language model for analyzing Thai pronunication
