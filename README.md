@@ -2,7 +2,8 @@
 
 ## 📝 About Me
   I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole.
-## Skills and Interests
+  "My learning is like a function that approaches truth. I may never reach the truth, but at least I'm always getting closer"
+## ⭐ Skills and Interests
 * Computer Languages: Python, Java, JavaScript, HTML, CSS, VB, C
 * Linguistics: Thai (native), English (fluent), German(studying)
 
