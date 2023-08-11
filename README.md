@@ -1,8 +1,8 @@
 # 👋 Hello, I’m [Parama Wattanakrai](https://github.com/ParamaWattanakrai) (ปรมะ วัฒนไกร)
 
 ## 📝 About Me
-  I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole.
-  "My learning is like a function that approaches truth. I may never reach the truth, but at least I'm always getting closer"
+  I'm Parama Wattanakrai, a Thai 🇹🇭 high school student with passion in programming and computer science as a whole.<br>
+  <q>My learning is like a function that approaches truth. I may never reach the truth, but at least I'm always getting closer</q>
 ## ⭐ Skills and Interests
 * Computer Languages: Python, Java, JavaScript, HTML, CSS, VB, C
 * Linguistics: Thai (native), English (fluent), German(studying)
