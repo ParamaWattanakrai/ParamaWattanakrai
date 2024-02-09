@@ -5,7 +5,7 @@
   <q>My eduation is a function that approaches truth. I may never reach the truth, but at least I'm always getting closer</q>
 ## ⭐ Skills and Interests
 * Computer Languages: Python, Java, JavaScript, HTML, CSS, VB, C
-* Linguistics: Thai (native), English (fluent), German(studying)
+* Linguistics: Thai (native), English (fluent), German (studying)
 
 ## 💼 Current Projects
 * 🌐 Waiyakon - A language model for analyzing Thai pronunication
