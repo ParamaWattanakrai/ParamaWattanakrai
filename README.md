@@ -28,7 +28,7 @@
 ## 📬 Contacts
 * 📧 E-Mail Address: Parama.Wattanakrai@gmail.com
 * 📘 Facebook: [Parama Wattanakrai](https://www.facebook.com/profile.php?id=100088878170822)
-* 📷 Instagram: [ParaWatt](https://www.instagram.com/para.watt/)
+* 📷 Instagram: [para.watt](https://www.instagram.com/para.watt/)
 * 🔵 Discord: parawatt
   
 ## 🧑‍🤝‍🧑 Affilations
