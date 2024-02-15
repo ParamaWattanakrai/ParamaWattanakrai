@@ -20,9 +20,9 @@
 ## 🚩 Achievements and Projects
 * 🧠 Completed AiCE Warp (Intro to AI Engineering Program) course by CMKL University (2022) - Computer Vision, Data Structure and Machine Learning
 * 🥉 Third place in 14th ICT Challenge by KMUTT (2022)
-* 🥇 First place in National Acedemic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) Nonthaburi provincial level (2022) - English Subject
+* 🥇 First place silver in National Academic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) Nonthaburi provincial level (2022) - English Subject
 * 🥈 Second place gold in 70th Silpa (ศิลปหัตถกรรม) Software Project Competition in Nonthaburi 1 district (2022) - Timetable Manager
-* 🥈 14th place silver in National Acedemic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) national level (2022) - English Subject
+* 🥈 14th place silver in National Academic Test Program (ประกาศสำนักงานโครงการสอบวัดทักษะวิชาการระดับชาติ: สวช.) national level (2022) - English Subject
 * Clean code award completion of Discovery Piscine for Senior High School Students course by 42 Bangkok (2023) - 12.07/13.57 Lvl.
 
 ## 📬 Contacts
