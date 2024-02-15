@@ -13,9 +13,9 @@
 
 ## 📙 Education
 * 🚸 Preschool (Anuban 1-3): Sarasas Withaed Bangbuathong (สารสาสน์วิเทศบางบัวทอง) - Bilingual Programme (แผนกสองภาษา)
-* 🎒 Primary School (Grade 1-6/Prathomsuksa 1-6): Sarasas Withaed Bangbuathong School (โรงเรียนสารสาสน์วิเทศบางบัวทอง) - Bilingual Programme (แผนกสองภาษา)
-* 🏫 Middle School (Grade 7-9/Matthayomsuksa 1-3): Triamudomsuksa Pattanakarn Nonthaburi School (โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี) - Gifted (โครงการส่งเสริมความเป็นเลิศทางคณิตศาสตร์และวิทยาศาสตร์)
-* 📚 High School (Grade 10-12/Matthayomsuksa 4-6): Triamudomsuksa Pattanakarn Nonthaburi School (โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี) - Science-Technology (วิทยาศาสตร์-คอมพิวเตอร์)
+* 🎒 Primary School (Grade 1-6/Prathomsueksa 1-6): Sarasas Withaed Bangbuathong School (โรงเรียนสารสาสน์วิเทศบางบัวทอง) - Bilingual Programme (แผนกสองภาษา)
+* 🏫 Middle School (Grade 7-9/Matthayomsueksa 1-3): Triamudomsuksa Pattanakarn Nonthaburi School (โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี) - Gifted (โครงการส่งเสริมความเป็นเลิศทางคณิตศาสตร์และวิทยาศาสตร์)
+* 📚 High School (Grade 10-12/Matthayomsueksa 4-6): Triamudomsuksa Pattanakarn Nonthaburi School (โรงเรียนเตรียมอุดมศึกษาพัฒนาการ นนทบุรี) - Science-Technology (วิทยาศาสตร์-คอมพิวเตอร์)
 
 ## 🚩 Achievements and Projects
 * 🧠 Completed AiCE Warp (Intro to AI Engineering Program) course by CMKL University (2022) - Computer Vision, Data Structure and Machine Learning
